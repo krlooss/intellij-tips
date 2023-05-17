@@ -1,4 +1,4 @@
-#IntelliJ Tricks by Victor Rentea, Software Crafter and Trainer
+#IntelliJ Tricks, original by Victor Rentea, spinOff by Carlos Sánchez
 
 # Me
 - Doing workshops for companies throughout the world.
@@ -17,7 +17,7 @@ https://victorrentea.ro
 
 ## Exploratory Refactoring
 
-### Typing
+### Typing 
 - Autocompletion: person.firstName > person.fn > p.fn
 - Boilerplate: toString
 - Type-aware / snake-completion: MaritalStatus  
