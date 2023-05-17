@@ -78,6 +78,15 @@ https://victorrentea.ro
 - Extract explanatory variable (w or w/o preselecting)
 - Extract / Inline Interface
 
+## EXTRAS
+### HTML client
+create a demo GET request
+
+### Know my debugger + Tests executions
+f7, f8, alt f8, cmd alt f8, f9, run till here, reset frame, eval in place
+
+### Navigate intellij Tool windows
+cmd + #s
 
 ### Next Steps
 - Become a Shortcuts Ninja 🥷: install "Key Promoter X" plugin

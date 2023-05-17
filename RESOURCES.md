@@ -14,12 +14,6 @@ https://plugins.jetbrains.com/plugin/7345-presentation-assistant
 suggest keyboard shortcuts
 https://plugins.jetbrains.com/plugin/9792-key-promoter-x
 
-### HTML client
-create a demo GET request
-
-### Know my debugger
-f7, f8, alt f8, cmd alt f8, f9, run till here, reset frame, eval in place
-
 ### Non Intellij
 #### Chrome
 Vimium extension for chrome (don't use your mouse in web browsing)
@@ -32,4 +26,4 @@ copyless (Mac app) or any other clipboard manager
 spectacle for window re arrangements
 
 #### zsh
-OhMyZsh with plugins and custom commands
+OhMyZsh with plugins and custom aliases
