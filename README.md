@@ -1,21 +1,17 @@
 #IntelliJ Tricks, original by Victor Rentea, spinOff by Carlos Sánchez
 
-# Me
-- Doing workshops for companies throughout the world.
-https://victorrentea.ro
+#### Mother of all commands
+cmd + shift + a (some already use double shift)
 
-- 17 years of java, 9 years of trainings and consultancy
-
-- Founder of the 2nd largest 
-  Software Crafter Community on Meetup.com (5K members):
-  Join us 👉 https://victorrentea.ro/community
-
-
-# Hi, DevTernity !
-
-## First day driving ...
-
-## Exploratory Refactoring
+### Navigating 
+- Recent Files (CTRL-E :: ⌘E)
+- Recent Places/Changes (CTRL-SHIFT-E)
++ Recent Projects (cmd + opt + e) vs cmd + Tab With fullScreen included
+- Go to declaration / impl cmd + B, cmd + opt + B
+- See file in project opt + F1
+- move to next/prev change (scrollbar colors)
+- clipboard history (cmd + shift + v)
+- Open File, Class, write only capital letters
 
 ### Typing 
 - Autocompletion: person.firstName > person.fn > p.fn
@@ -61,8 +57,6 @@ https://victorrentea.ro
 - Current Parameter (Ctrl-P)
 - Type of current expression (Ctrl-Shift-P)
 - Call hierarchy (CTRL-ALT-H :: ^⌥H)
-- Recent Files (CTRL-E :: ⌘E) 
-- Recent Places/Changes (CTRL-SHIFT-E)
 - Bookmark (F11 :: F3)
 - Collapse / Fold (CTRL-. :: ⌘.)
 
@@ -80,7 +74,8 @@ https://victorrentea.ro
 
 ## EXTRAS
 ### HTML client
-create a demo GET request
+show a demo GET request, see eps-promo-api
+https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html#composing-http-requests
 
 ### Know my debugger + Tests executions
 f7, f8, alt f8, cmd alt f8, f9, run till here, reset frame, eval in place
@@ -90,12 +85,5 @@ cmd + #s
 
 ### Next Steps
 - Become a Shortcuts Ninja 🥷: install "Key Promoter X" plugin
-- Practice all the moves yourself (pause-play this)
+- Practice all the moves yourself
   
-- More Inspections: Download my (opinionated) inspections list
-  (search Aggressive_Refactoring.xml on https://victorrentea.ro)
-- In-house workshop your company won't ever forget  
-  mailto:victorrentea@gmail.com
-
-- Join my Community of Software Crafters (>5000 members) 
-  for monthly live webinars and hot🔥 debates
