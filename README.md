@@ -1,17 +1,19 @@
 #IntelliJ Tricks, original by Victor Rentea, spinOff by Carlos Sánchez
 
 #### Mother of all commands
-cmd + shift + a (some already use double shift)
+⌘ + shift + a (some already use double shift)
+&&
+opt + enter
 
 ### Navigating 
 - Recent Files (CTRL-E :: ⌘E)
 - Recent Places/Changes (CTRL-SHIFT-E)
-+ Recent Projects (cmd + opt + e) vs cmd + Tab With fullScreen included
-- Go to declaration / impl cmd + B, cmd + opt + B
++ Recent Projects (⌘ + opt + e) vs ⌘ + Tab With fullScreen included
+- Go to declaration / impl ⌘ + B, ⌘ + opt + B
 - See file in project opt + F1
-- move to next/prev change (scrollbar colors)
-- clipboard history (cmd + shift + v)
-- Open File, Class, write only capital letters
+- move to next/prev change (ctr + opt + shift scrollbar colors)
+- Clipboard history (⌘ + shift + v)
+- Open File vs Class, write only capital letters (⌘ + o or ⌘ + shift + o)
 
 ### Typing 
 - Autocompletion: person.firstName > person.fn > p.fn
@@ -78,10 +80,10 @@ show a demo GET request, see eps-promo-api
 https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html#composing-http-requests
 
 ### Know my debugger + Tests executions
-f7, f8, alt f8, cmd alt f8, f9, run till here, reset frame, eval in place
+f7, f8, alt f8, ⌘ alt f8, f9, run till here, reset frame, eval in place
 
 ### Navigate intellij Tool windows
-cmd + #s
+⌘ + #'s
 
 ### Next Steps
 - Become a Shortcuts Ninja 🥷: install "Key Promoter X" plugin
