@@ -33,7 +33,7 @@ opt + enter
 - Embrace Selection: while text is selected, press any of: {"'`<([
 
 ### Smart Selecting
-- Multi-cursor
+- Multi-cursor Play around
   - Token-based❤️ (ALT-J :: ^G) -- MovieType .html 
   - ALT-drag -- .feature
   - ALT-SHIFT + click, click
@@ -49,7 +49,7 @@ opt + enter
 - and 500+ more 😊=> almost all are disabled by default
     
 ### FP Support
-- ALT-Enter on .stream <-> for
+LocalVariables.java stream on rentals
 - Skip writing ".stream()"
 - Autocomplete after directly after ::  
 - Collecting: ctl, cs, cj
@@ -66,13 +66,10 @@ opt + enter
 - Introduce Parameter, Functional Parameter, and Parameter Object -- Parameters.java
 - Add param from inside / from outside w/ ALT-ENTER 
 
+#### Show in Aggregator
 - Extract Method (+ Auto-Parameterize) -- ExtractMethod.java
 - Combo: Extract over & Inline inner
 - Combo: Extract & Move/Convert to Instance
-
-- Extract / Inline / Encapsulate Field -- Fields.java 
-- Extract explanatory variable (w or w/o preselecting)
-- Extract / Inline Interface
 
 ## EXTRAS
 ### HTML client
