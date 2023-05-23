@@ -66,14 +66,14 @@ LocalVariables.java stream on rentals
 - Introduce Parameter, Functional Parameter, and Parameter Object -- Parameters.java
 - Add param from inside / from outside w/ ALT-ENTER 
 
-#### Show in Aggregator
+#### Show
 - Extract Method (+ Auto-Parameterize) -- ExtractMethod.java
 - Combo: Extract over & Inline inner
 - Combo: Extract & Move/Convert to Instance
 
 ## EXTRAS
 ### HTML client
-show a demo GET request, see eps-promo-api
+show a demo GET request
 https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html#composing-http-requests
 
 ### Know my debugger + Tests executions
